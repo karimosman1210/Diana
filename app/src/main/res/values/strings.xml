@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Diana</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="new_account">عمل حساب جديد</string>
+    <string name="loading">جاري التحميل ....</string>
+    <string name="please_wait">من فضلك انتظر</string>
+    <string name="noconnection">لا يوجد اتصال بالانترنت</string>
+    <string name="phone_num">رقم الهاتف</string>
+    <string name="passwod">كلمة المرور</string>
+    <string name="visitor">زياره عامه</string>
+    <string name="emptyphone">رقم الهاتف فارغ</string>
+    <string name="emptyPassword">كلمة المرور الخاصة بك فارغة</string>
+    <string name="invaildEmail">بريد إلكتروني خاطئ</string>
+    <string name="invaildphone">رقم الهاتف غير صالح</string>
+    <string name="invaildpass">كلمة مرور غير صالحة</string>
+    <string name="invaildPasswordLenght">يجب أن يتراوح طول كلمة المرور بين 6 إلى 50</string>
+    <string name="tryagaing">حدث خطأ ، يرجى المحاولة مرة أخرى!</string>
+    <string name="takephoto">تصوير</string>
+    <string name="chooselib">اختر من المكتبة</string>
+    <string name="choosecountry">اختر دولة</string>
+    <string name="cancel">إلغاء</string>
+    <string name="selectimage">حدد ملف</string>
+    <string name="titledialoug">إضافة صورة</string>
+    <string name="band_rakam">من فضلك ادخل رقم البند</string>
+    <string name="desception">من فضلك ادخل التوصيف</string>
+    <string name="price">من فضلك ادخل السعر</string>
+    <string name="image">من فضلك ادخل علي الاقل صورة واحدة</string>
+    <string name="emptyImage">يجب رفع صورتك الشخصية </string>
+    <string name="emptyName">الاسم فارغ</string>
+    <string name="emptyEmail">البريد الالكترونى فارغ</string>
+    <string name="emptyNickname">الاسم المستعار فارغ</string>
+    <string name="confirm_password">تاكيد كلمه المرور فارغ</string>
+    <string name="Passwordlenght">كلمه المرور يجب ان تحتوى على 6 </string>
+    <string name="newAccount">تم تسجيل حسابك بنجاح</string>
+    <string name="egp">جنية مصري</string>
+    <string name="avilable">جاري</string>
+    <string name="adds_finish">انتهي</string>
+    <string name="no">لا</string>
+    <string name="yes">نعم</string>
+    <string name="need_conoferm">هل ترغب في تأكيد الطلب</string>
+    <string name="attintion">انتبه !!</string>
+    <string name="emptyCountry">من فضلك ادخل دولتك</string>
+</resources>
